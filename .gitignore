@@ -7,3 +7,6 @@
 !*.md
 !.gitignore
 # <<< Glyph Git Sync <<<
+
+.pi/extensions/emdash-hook.ts
+
